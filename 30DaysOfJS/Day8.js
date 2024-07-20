@@ -1,6 +1,7 @@
 /** const and let,
  * Arrow function,
  * Template literal ,
+ * enhance object literal,
  *  Object and Array Destructuring
  * Default Parameter
  * Classes
